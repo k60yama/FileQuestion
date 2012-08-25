@@ -68,7 +68,7 @@
                 android:text="" />
         </TableRow>
         <!-- 性別 ここまで -->
-    </TableLayout>"
+    </TableLayout>
 
 	<!-- 注文リスト ここから -->
 	<TableLayout
